@@ -1,0 +1,11 @@
+title: Get Domed
+description: Xemnas will make fun of you for getting Domed during the final fight.
+assets:
+- name: remastered\obj\B_EX170_LAST.a.us\voice\battle\us\n_xemnas_last
+  method: copy
+  source:
+  - name: n_xemnas_last
+- name: remastered\obj\B_EX170_LAST_LV99.a.us\voice\battle\us\n_xemnas_last
+  method: copy
+  source:
+  - name: n_xemnas_last
